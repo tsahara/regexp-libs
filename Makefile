@@ -5,3 +5,6 @@ onigmo::
 
 posix::
 	(cd posix && make)
+
+pcre::
+	(cd pcre && make)
